@@ -1,0 +1,14 @@
+# ignore file types
+*.bk
+*.DS_Store
+*.lck
+*.log
+*.swn
+*.swo
+*.swp
+*.xml-e*
+*.idea
+*.idea/*
+*.md5
+*.MD5
+/target/

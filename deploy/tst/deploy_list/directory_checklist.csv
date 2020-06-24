@@ -1,0 +1,5 @@
+DIR_OBJECT,DEPLOY_FLAG,TARGET,DESCRIPTION
+/target/*.jar,TRUE ,/mapr/datalake/ODM/mleccm/tst_631/cr3_cir/developer/jenkins/ingestion-cirrus/,"this column for informational purpose only, change as necessary"
+/scripts/*.*,TRUE ,/mapr/datalake/ODM/mleccm/tst_631/cr3_cir/developer/jenkins/ingestion-cirrus/scripts/,"this column for informational purpose only, change as necessary"
+/lib/*.*,TRUE ,/mapr/datalake/ODM/mleccm/tst_631/cr3_cir/developer/jenkins/ingestion-cirrus/lib/,
+/config/,TRUE ,/mapr/datalake/ODM/mleccm/tst_631/cr3_cir/developer/jenkins/ingestion-cirrus/config/,

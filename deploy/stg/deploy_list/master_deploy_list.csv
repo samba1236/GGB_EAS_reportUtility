@@ -1,0 +1,14 @@
+DEPLOY_OBJECT,DEPLOY_FLAG,TARGET,DESCRIPTION
+/target/*.jar,FALSE,/mapr/datalake/ODM/mleccm/tst_631/cr3_cir/t_config/lib/,"this column for informational purpose only, change as necessary"
+/scripts/non_prd/benelang/,TRUE ,/mapr/datalake/ODM/mleccm/stg_631/cr3_cir/s_scripts/benelang/,
+/config/stg/hive/xpath/C360_BENELANG_CIRRUS_xpath.properties,TRUE ,/mapr/datalake/ODM/mleccm/stg_631/cr3_cir/s_config/xpath/,
+/lib/,FALSE ,/mapr/datalake/ODM/mleccm/stg_631/cr3_cir/s_config/lib/,"this column for informational purpose only, change as necessary"
+/scripts/non_prd/shell/hive/,FALSE,/mapr/datalake/ODM/mleccm/stg_631/cr3_cir/s_scripts/shell/,
+/scripts/hive/claimsubmitted/ICN/*,TRUE,/mapr/datalake/ODM/mleccm/stg_631/cr3_cir/s_scripts/claimsubmitted/,
+/config/stg/hive/xpath/*.*,TRUE,/mapr/datalake/ODM/mleccm/stg_631/cr3_cir/s_config/xpath/,
+/config/stg/hive/C360_CLAIM_SUBMITTED_ICN_CIRRUS_Context_Parm_File_Incr.txt,TRUE,/mapr/datalake/ODM/mleccm/stg_631/cr3_cir/s_config/,
+/config/stg/hive/xpath/C360_MEDCLAIMS_CIRRUS_xpath_ICN.properties,TRUE,/mapr/datalake/ODM/mleccm/stg_631/cr3_cir/s_config/xpath/,
+/config/stg/hive/C360_MEDCLAIMS_CIRRUS_Context_Parm_File_ICN.txt,TRUE,/mapr/datalake/ODM/mleccm/stg_631/cr3_cir/s_config/,
+/scripts/hive/medicalclaimtransaction/ICN_Optimized/*,TRUE,/mapr/datalake/ODM/mleccm/stg_631/cr3_cir/s_scripts/medicalclaimtransaction/,
+/scripts/hive/shell/polarisC360_generic_ecm_mapreduce.sh,TRUE,/mapr/datalake/ODM/mleccm/stg_631/cr3_cir/s_scripts/shell/,
+/lib/ecm-1.0-SNAPSHOT-claimadjudicated-v11_04_21.jar,TRUE,/mapr/datalake/ODM/mleccm/stg_631/cr3_cir/s_config/lib/,

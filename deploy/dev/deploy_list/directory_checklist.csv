@@ -1,0 +1,7 @@
+DIR_OBJECT,DEPLOY_FLAG,TARGET,DESCRIPTION
+/target/*.jar,TRUE ,/mapr/datalake/ODM/mleccm/dev_631/cr3_cir/d_config/lib/,"this column for informational purpose only, change as necessary"
+/scripts/*.*,TRUE ,/mapr/datalake/ODM/mleccm/dev_631/cr3_cir/d_scripts/,"this column for informational purpose only, change as necessary"
+/lib/*.*,TRUE ,/mapr/datalake/ODM/mleccm/dev_631/cr3_cir/d_config/lib/,
+/config/,TRUE ,/mapr/datalake/ODM/mleccm/dev_631/cr3_cir/d_config/,
+/config/dev/json_cirrus_alpha/Filter/plan/,TRUE,/mapr/datalake/ODM/mleccm/dev_631/cr3_cir/d_temp/filter/plan/,
+

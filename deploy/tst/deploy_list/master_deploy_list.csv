@@ -1,0 +1,2 @@
+DEPLOY_OBJECT,DEPLOY_FLAG,TARGET,DESCRIPTION
+/target/app.jar,TRUE,/mapr/datalake/ODM/mleccm/tst_631/cr3_cir/t_config/lib/,
